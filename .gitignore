@@ -1,0 +1,6 @@
+#Editor
+.vscode
+
+# Build directory.
+build/
+out/
